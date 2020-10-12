@@ -1,0 +1,9 @@
+c:\users\albertorodriguez\source\repos\ThreeThreadsV2\ThreeThreadsV2\bin\Debug\ThreeThreadsV2.exe.config
+c:\users\albertorodriguez\source\repos\ThreeThreadsV2\ThreeThreadsV2\bin\Debug\ThreeThreadsV2.exe
+c:\users\albertorodriguez\source\repos\ThreeThreadsV2\ThreeThreadsV2\bin\Debug\ThreeThreadsV2.pdb
+c:\users\albertorodriguez\source\repos\ThreeThreadsV2\ThreeThreadsV2\obj\Debug\ThreeThreadsV2.csprojAssemblyReference.cache
+c:\users\albertorodriguez\source\repos\ThreeThreadsV2\ThreeThreadsV2\obj\Debug\ThreeThreadsV2.csproj.CoreCompileInputs.cache
+c:\users\albertorodriguez\source\repos\ThreeThreadsV2\ThreeThreadsV2\obj\Debug\ThreeThreadsV2.exe
+c:\users\albertorodriguez\source\repos\ThreeThreadsV2\ThreeThreadsV2\obj\Debug\ThreeThreadsV2.pdb
+\\Mac\Home\Documents\Universidad\20182019\1er Cuatrimestre (Erasmus)\Parallel Programming\ThreeThreadsV2\ThreeThreadsV2\obj\Debug\ThreeThreadsV2.exe
+\\Mac\Home\Documents\Universidad\20182019\1er Cuatrimestre (Erasmus)\Parallel Programming\ThreeThreadsV2\ThreeThreadsV2\obj\Debug\ThreeThreadsV2.pdb
